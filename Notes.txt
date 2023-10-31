@@ -1,0 +1,2 @@
+- What is the difference between var, let and const.
+- https://www.w3schools.com/jsref/jsref_array_at.asp
