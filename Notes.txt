@@ -1,2 +1,14 @@
 - What is the difference between var, let and const.
 - https://www.w3schools.com/jsref/jsref_array_at.asp
+
+- getWindowRect(): Promise<RectReturn>;
+- Difference between switchToWindow and switchWindow
+- console.clear()
+- Using let instead of var
+- snippets
+- Use partial link text $(*=Checkout)
+- format of the above $(*=[Name of the text]) 
+- When using multiple awaits in the statement, you can use Promise.All
+
+
+

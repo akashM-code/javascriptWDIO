@@ -22,7 +22,7 @@ export const config = {
     // will be called from there.
     //
     specs: [
-        './test/specs/selectDropdown.js'
+        './test/specs/mapFilterReduce.js'
     ],
     // Patterns to exclude.
     exclude: [
